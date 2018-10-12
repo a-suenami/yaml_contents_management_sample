@@ -1,0 +1,1 @@
+# yaml_contents_management_sample
