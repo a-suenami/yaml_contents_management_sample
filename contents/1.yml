@@ -2,4 +2,8 @@
 contents:
   - id: 1
     name: コンテンツ1
-    description: コンテンツだよー
+    description: コンテンツだよー変更するよー項目も追加するよー
+    related_links:
+      - https://example.com/related1
+      - https://example.com/related2
+
